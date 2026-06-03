@@ -1,0 +1,13 @@
+accelerate>=0.33
+datasets
+faiss-cpu
+huggingface_hub
+numpy
+openai
+scipy
+sentence-transformers
+sentencepiece
+tiktoken
+torch
+transformers
+wandb
